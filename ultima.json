@@ -1,0 +1,9 @@
+{
+  "versao": "1.0.0",
+  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.0.0/BarraRapida.exe",
+  "sha256": "d51f444ed7f60713dc0170ae3f9e4aa34afe680343de515616f147f4c9671e6b",
+  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.0.0/Instalar-BarraRapida-1.0.0.exe",
+  "instalador_sha256": "fe8eeba7b42a44a9a26a6b0723301607d116edb0fa437cf2e077d473967a14a1",
+  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.0.0",
+  "notas": "Primeira versão: barra flutuante, textos com variáveis, pop-ups, rascunho, atalho global e atualização automática."
+}
