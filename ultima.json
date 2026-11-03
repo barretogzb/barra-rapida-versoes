@@ -1,9 +1,9 @@
 {
-  "versao": "1.1.0",
-  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.1.0/BarraRapida.exe",
-  "sha256": "d654ee6b3e617bc3aa1042fef087018ed2c66bc6976d22ed3763d589bc2442c9",
-  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.1.0/Instalar-BarraRapida-1.1.0.exe",
-  "instalador_sha256": "37976dd8f642bf885e59812dbafb0d4c9aa85e0e72ea783afc785f745382e24f",
-  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.1.0",
-  "notas": "Barra nova, mais moderna: botões coloridos, sombra suave e cantos arredondados.\nFica horizontal ou vertical em qualquer lugar (botão de girar), com 3 tamanhos e opção de nome embaixo dos botões.\nNova tela de abertura animada.\nNovo: App em pop-up. Coloque o Gestão de Senha (ou outro programa) dentro da barra pelo botão +."
+  "versao": "1.2.0",
+  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.2.0/BarraRapida.exe",
+  "sha256": "7f59e4027282dea4271bd3f4020452c7d67c1859c17d69d29dda61f2a08263d7",
+  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.2.0/Instalar-BarraRapida-1.2.0.exe",
+  "instalador_sha256": "c3022c9f24e367476266686438445750b0fb31e5c04ad46e1a26fbc6d84d184a",
+  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.2.0",
+  "notas": "Barra mais compacta (o botão de girar foi para o menu ⋯ › Posição).\nGestão de Senha dentro da barra agora abre só o painel com a senha do dia e os tokens (precisa do Gestão de Senha 5.8.0, que chega pela atualização dele)."
 }
