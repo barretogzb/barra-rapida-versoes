@@ -1,9 +1,9 @@
 {
-  "versao": "1.0.0",
-  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.0.0/BarraRapida.exe",
-  "sha256": "d51f444ed7f60713dc0170ae3f9e4aa34afe680343de515616f147f4c9671e6b",
-  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.0.0/Instalar-BarraRapida-1.0.0.exe",
-  "instalador_sha256": "fe8eeba7b42a44a9a26a6b0723301607d116edb0fa437cf2e077d473967a14a1",
-  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.0.0",
-  "notas": "Primeira versão: barra flutuante, textos com variáveis, pop-ups, rascunho, atalho global e atualização automática."
+  "versao": "1.1.0",
+  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.1.0/BarraRapida.exe",
+  "sha256": "d654ee6b3e617bc3aa1042fef087018ed2c66bc6976d22ed3763d589bc2442c9",
+  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.1.0/Instalar-BarraRapida-1.1.0.exe",
+  "instalador_sha256": "37976dd8f642bf885e59812dbafb0d4c9aa85e0e72ea783afc785f745382e24f",
+  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.1.0",
+  "notas": "Barra nova, mais moderna: botões coloridos, sombra suave e cantos arredondados.\nFica horizontal ou vertical em qualquer lugar (botão de girar), com 3 tamanhos e opção de nome embaixo dos botões.\nNova tela de abertura animada.\nNovo: App em pop-up. Coloque o Gestão de Senha (ou outro programa) dentro da barra pelo botão +."
 }
