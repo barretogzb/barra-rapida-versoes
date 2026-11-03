@@ -1,9 +1,9 @@
 {
-  "versao": "1.2.0",
-  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.2.0/BarraRapida.exe",
-  "sha256": "7f59e4027282dea4271bd3f4020452c7d67c1859c17d69d29dda61f2a08263d7",
-  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.2.0/Instalar-BarraRapida-1.2.0.exe",
-  "instalador_sha256": "c3022c9f24e367476266686438445750b0fb31e5c04ad46e1a26fbc6d84d184a",
-  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.2.0",
-  "notas": "Barra mais compacta (o botão de girar foi para o menu ⋯ › Posição).\nGestão de Senha dentro da barra agora abre só o painel com a senha do dia e os tokens (precisa do Gestão de Senha 5.8.0, que chega pela atualização dele)."
+  "versao": "1.2.1",
+  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.2.1/BarraRapida.exe",
+  "sha256": "1b5d983e8a3e17c0fc4bdbee272ab34be9e3966bc95bbb2cc267432d34c40370",
+  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.2.1/Instalar-BarraRapida-1.2.1.exe",
+  "instalador_sha256": "a2f7afeae12da469843739b80b24bfa4d0cb92331a38a94c4b90d8b0ff97fe07",
+  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.2.1",
+  "notas": "Botão de copiar em cada texto.\nTela dos textos com letras mais nítidas e sem piscar ao passar o mouse.\nCtrl+Enter e Shift+Enter não fazem mais nada (Enter continua colando o texto escolhido)."
 }
