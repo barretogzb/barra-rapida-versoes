@@ -1,9 +1,9 @@
 {
-  "versao": "1.3.0",
-  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.3.0/BarraRapida.exe",
-  "sha256": "5c8ed568807ce400c10d45dcb12817473c7a2affce15607e7bcb1290309cfbfa",
-  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.3.0/Instalar-BarraRapida-1.3.0.exe",
-  "instalador_sha256": "fcbb88fc554e3e0d316f8080cc4dba2a6997d8de332a5f87ae22e3c43bc6bec9",
-  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.3.0",
-  "notas": "Novo: Transcrever da tela. Clique no botão novo da barra (ou aperte Ctrl+Alt+X), arraste para marcar uma parte da tela e o texto dela já fica copiado.\nDá para corrigir o texto antes, copiar de novo ou salvar nos seus textos."
+  "versao": "1.3.1",
+  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.3.1/BarraRapida.exe",
+  "sha256": "75fb3a3247bb4edf8223eb9de08873e106ba62876de27834db14e35f9cb9fbea",
+  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.3.1/Instalar-BarraRapida-1.3.1.exe",
+  "instalador_sha256": "03ac3092931719ca1386eaae5d7858a1922ad0309252c5301eef93348b8f5d63",
+  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.3.1",
+  "notas": "Tela de abertura menor e mais rápida."
 }
