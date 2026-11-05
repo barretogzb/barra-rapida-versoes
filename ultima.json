@@ -1,9 +1,9 @@
 {
-  "versao": "1.5.0",
-  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.5.0/BarraRapida.exe",
-  "sha256": "ca63a26c3f2b57eb68719f095c72500cdd23479ee55fc7f69da0dce09bd26c89",
-  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.5.0/Instalar-BarraRapida-1.5.0.exe",
-  "instalador_sha256": "54396a7a3d0818a1d7e0d4f470d9b0a49f2fc9407f0ff16e61501985671e3c4b",
-  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.5.0",
-  "notas": "Novo: Lembretes. Escreva do jeito que fala, como \"cliente às 20h\", \"reunião amanhã 9h\" ou \"rca em 30 min\", e na hora aparece um aviso no canto da tela, com som.\nNo aviso dá para adiar (5 min, 15 min, 1 hora) ou concluir. Dá para repetir todo dia, em dias úteis, toda semana ou todo mês.\nAtalho para criar um lembrete de qualquer lugar: Ctrl+Alt+L.\nA barra também passa a procurar atualização a cada 20 minutos."
+  "versao": "1.5.1",
+  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.5.1/BarraRapida.exe",
+  "sha256": "9c171a769fabfe507df598b50d4bc8ea6e11cca46c29a35c5a5a7b0e342c0ae3",
+  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.5.1/Instalar-BarraRapida-1.5.1.exe",
+  "instalador_sha256": "45b13d352b4802feee8fec7a379e9cc7e67dbbb05a26ad94448476b4aec7c69a",
+  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.5.1",
+  "notas": "Visual novo, mais sóbrio: barra lisa com ícones de uma cor só, cores neutras (grafite) com um azul discreto, logo e tela de abertura novos."
 }
