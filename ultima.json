@@ -1,9 +1,9 @@
 {
-  "versao": "1.4.1",
-  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.4.1/BarraRapida.exe",
-  "sha256": "e9600b9ab36199a316c7588e56a1d75fb36804268d436b52f8d10eb085c8b963",
-  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.4.1/Instalar-BarraRapida-1.4.1.exe",
-  "instalador_sha256": "b2b28647d9bdb3e712cc34b9a0b732fac24f863b58c18d82ec91eee7fec6f634",
-  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.4.1",
-  "notas": "Agora dá para prender na barra janelinhas flutuantes de outros programas, como o ícone do modo mini do Gestão de Senha: arraste até a barra e solte.\nA barra abre um espaço para ela, que acompanha a barra e volta presa quando o programa abrir de novo. Para tirar, arraste para fora da barra."
+  "versao": "1.4.2",
+  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.4.2/BarraRapida.exe",
+  "sha256": "4159cdf432a0acf97221bcdcab4ba286a95b577a4636a8b2501e6791a24e3d17",
+  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.4.2/Instalar-BarraRapida-1.4.2.exe",
+  "instalador_sha256": "a598f93ef0564b83cc2e519a926e759966486005f0c7075a086b395cb0d4372e",
+  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.4.2",
+  "notas": "Janelinhas de outros programas presas na barra (como o modo mini do Gestão de Senha) agora viram um botão do mesmo tamanho dos outros.\nAo clicar, ela abre certinho em cima do botão. Para tirar: botão direito nela › Soltar da barra."
 }
