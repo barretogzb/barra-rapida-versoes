@@ -1,9 +1,9 @@
 {
-  "versao": "1.5.1",
-  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.5.1/BarraRapida.exe",
-  "sha256": "9c171a769fabfe507df598b50d4bc8ea6e11cca46c29a35c5a5a7b0e342c0ae3",
-  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.5.1/Instalar-BarraRapida-1.5.1.exe",
-  "instalador_sha256": "45b13d352b4802feee8fec7a379e9cc7e67dbbb05a26ad94448476b4aec7c69a",
-  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.5.1",
-  "notas": "Visual novo, mais sóbrio: barra lisa com ícones de uma cor só, cores neutras (grafite) com um azul discreto, logo e tela de abertura novos."
+  "versao": "1.5.2",
+  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.5.2/BarraRapida.exe",
+  "sha256": "cd24b1c0e8b1465731219671dcb6a44e6f2d8d7f9c0bd9363807be38ebdfcdd6",
+  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.5.2/Instalar-BarraRapida-1.5.2.exe",
+  "instalador_sha256": "c3971204c65e0a1555a95e9e088b7fef0a3a709eba4340998f41a2b7c89568c6",
+  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.5.2",
+  "notas": "Barra mais fácil de achar na tela: contorno mais claro, filete e pontinhos em azul. Escondida na borda, fica uma faixa com um traço azul."
 }
