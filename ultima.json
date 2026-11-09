@@ -1,9 +1,9 @@
 {
-  "versao": "1.6.0",
-  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.6.0/BarraRapida.exe",
-  "sha256": "a446d2656d3966deb721062ec4697ab5851cd2d277b0db2dee5e5572d09c103a",
-  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.6.0/Instalar-BarraRapida-1.6.0.exe",
-  "instalador_sha256": "572fabbf98b2fa10eb0568da50c6263c019e07aff409144f99cbe2055037f002",
-  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.6.0",
-  "notas": "Clicar num texto agora abre ele (para ler e editar). Para copiar, use o botão ao lado, ou o botão Copiar dentro do texto.\nAtalho por texto: dentro do texto, clique em \"Atalho\" e aperte uma combinação (ex.: Ctrl+Alt+1). Apertando ela em qualquer programa, o texto é colado.\nCtrl+F procura: na lista de textos, dentro de um texto e no Rascunho.\nCtrl+S no Rascunho salva na hora."
+  "versao": "1.6.1",
+  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.6.1/BarraRapida.exe",
+  "sha256": "7108c0e40fcadd3670d6ab235f5b278f30afdcd6bf7d723716f6956a2aa91e03",
+  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.6.1/Instalar-BarraRapida-1.6.1.exe",
+  "instalador_sha256": "417056dda4460192797afa6a1adfe66f3c5405c7b0f27e851376ede7f1aaa7bf",
+  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.6.1",
+  "notas": "Volta o colar ao clicar, agora com escolha em cada texto: dentro do texto, o interruptor \"Colar ao clicar\" ligado cola direto no programa; desligado, clicar abre o texto.\nO lápis (ao passar o mouse) sempre abre o texto. Também dá para trocar pelo botão direito no texto."
 }
