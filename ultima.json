@@ -1,9 +1,9 @@
 {
-  "versao": "1.6.1",
-  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.6.1/BarraRapida.exe",
-  "sha256": "7108c0e40fcadd3670d6ab235f5b278f30afdcd6bf7d723716f6956a2aa91e03",
-  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.6.1/Instalar-BarraRapida-1.6.1.exe",
-  "instalador_sha256": "417056dda4460192797afa6a1adfe66f3c5405c7b0f27e851376ede7f1aaa7bf",
-  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.6.1",
-  "notas": "Volta o colar ao clicar, agora com escolha em cada texto: dentro do texto, o interruptor \"Colar ao clicar\" ligado cola direto no programa; desligado, clicar abre o texto.\nO lápis (ao passar o mouse) sempre abre o texto. Também dá para trocar pelo botão direito no texto."
+  "versao": "1.6.2",
+  "exe": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.6.2/BarraRapida.exe",
+  "sha256": "b02e8c5a97ecff65b4e5a3bd22220780f5ee3e388ae82e67b66e007b0211adea",
+  "instalador": "https://github.com/barretogzb/barra-rapida-versoes/releases/download/v1.6.2/Instalar-BarraRapida-1.6.2.exe",
+  "instalador_sha256": "1fdcfcfd5445431af9f791ef719e0b2581fe664ebf621d39cb7c662836405e7c",
+  "pagina": "https://github.com/barretogzb/barra-rapida-versoes/releases/tag/v1.6.2",
+  "notas": "Correção: a barra não fica mais \"presa\" sem abrir. Se uma cópia travar, a próxima vez que você abrir ela é fechada e a barra abre normalmente.\nSe a barra parar de responder, ela se reabre sozinha."
 }
